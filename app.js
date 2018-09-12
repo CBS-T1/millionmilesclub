@@ -4,10 +4,3 @@ function signUpFunction() {
 
     alert('Thank you for signing up ' + name + ' . We have send an email to ' + email);
 }
-
-// This is a comment for github
-
-// I will try to commit this
-alert('This is a test comment');
-
-// Lets try this merge to new branch
