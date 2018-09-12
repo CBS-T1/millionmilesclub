@@ -4,3 +4,5 @@ function signUpFunction() {
 
     alert('Thank you for signing up ' + name + ' . We have send an email to ' + email);
 }
+
+// This is a comment for github
