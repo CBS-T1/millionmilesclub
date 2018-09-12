@@ -8,3 +8,4 @@ function signUpFunction() {
 // This is a comment for github
 
 // I will try to commit this
+alert('This is a test comment');
