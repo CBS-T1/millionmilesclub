@@ -6,3 +6,5 @@ function signUpFunction() {
 }
 
 // This is a comment for github
+
+alert('This is a test comment');
