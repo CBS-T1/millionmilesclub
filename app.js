@@ -9,3 +9,5 @@ function signUpFunction() {
 
 // I will try to commit this
 alert('This is a test comment');
+
+// Lets try this merge to new branch
